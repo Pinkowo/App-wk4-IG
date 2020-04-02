@@ -1,0 +1,32 @@
+{
+    "homeTitle":"insta",
+    "postList":[
+        {
+            "id":"tomhiddleston_daily",
+            "profile":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/pics/tom2.png?raw=true",
+            "pic":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/pics/tom.png?raw=true",
+            "like":"5067",
+            "content":" TomHiddleston attends the 'Super 8' Los Angeles Premiere at Reg",
+            "comment":22,
+            "days":2
+        },
+        {
+            "id":"duncan_design",
+            "profile":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/pics/duncan2.png?raw=true",
+            "pic":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/pics/duncan.png?raw=true",
+            "like":"50,047",
+            "content":" 森林小動物",
+            "comment":183,
+            "days":3
+        },
+        {
+            "id":"byebyechuchu",
+            "profile":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/pics/byechu2.png?raw=true",
+            "pic":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/pics/byechu.png?raw=true",
+            "like":"11,230",
+            "content":" 非常時期只能自己抱自己。",
+            "comment":75,
+            "days":4
+        }
+    ]
+}

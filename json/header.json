@@ -1,0 +1,16 @@
+{
+    "HMPage":
+        {
+            "HeaderLeftUrl":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/icons/header.png?raw=true",
+            "HeaderRightUrl":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/icons/header_message.png?raw=true",
+            "bottomImage":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/post/icons/ig_bar.png?raw=true"
+        },
+
+    "MSPage":
+        {
+            "HeaderLeftUrl":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/message/header_left.png?raw=true",
+            "HeaderRightUrl":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/message/header_right.png?raw=true",
+            "bottomImage":"https://github.com/Pinkowo/App-wk4-IG/blob/master/pics/message/camera.png?raw=true"
+        }
+    
+}
